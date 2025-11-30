@@ -43,4 +43,6 @@ allocate the array
  } 
  free(week); 
  return 0; 
+
 }
+hhhh
