@@ -1,3 +1,9 @@
+a) Evaluation of Suffix expression with single digit operands and operators: +, -, *, /, %,^
+
+
+
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
@@ -57,4 +63,5 @@ int fnPop(int Stack[], int *t)
  elem = Stack[*t]; 
  *t = *t -1; 
  return elem; 
+
 }
